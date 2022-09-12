@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="LA29688"
   DTS:CreatorName="UBHT_NT\ChiltonMic"
-  DTS:DTSID="{21646492-A10E-48B8-9B44-818ACF07D827}"
+  DTS:DTSID="{055B7A30-167E-4CC7-965E-439C081FEED6}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.121"
   DTS:LocaleID="2057"
-  DTS:ObjectName="testmerge"
+  DTS:ObjectName="testmergex"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{D1AF8638-BDB0-4934-BD7E-F668298831BE}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{FB02D16C-7F39-469C-AB63-A45C056EB22A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
