@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "testmerge2", "testmerge2\testmerge2.dtproj", "{8CA2FE2D-E40A-4A9F-A7EB-5BC5FC36ACDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA2FE2D-E40A-4A9F-A7EB-5BC5FC36ACDA}.Development|Default.ActiveCfg = Development
+		{8CA2FE2D-E40A-4A9F-A7EB-5BC5FC36ACDA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723A30D2-392F-4676-B68B-E7DAD3D395E1}
+	EndGlobalSection
+EndGlobal
